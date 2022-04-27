@@ -1,0 +1,13 @@
+package.xdc
+Platform.xdc
+Platform.xs
+package/CoreKernel.Platform.C6748.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b160
+package/.xdc-z63
+package/CoreKernel_Platform_C6748.java
+package/CoreKernel_Platform_C6748.class
+package/package_CoreKernel.Platform.C6748.c
+package/package.defs.h
+package/CoreKernel.Platform.C6748.ccs

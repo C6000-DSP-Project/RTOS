@@ -1,0 +1,17 @@
+CoreKernel/Platform/C6748/Platform.xdc
+CoreKernel/Platform/C6748/Platform.xs
+CoreKernel/Platform/C6748/config.bld
+CoreKernel/Platform/C6748/package/.vers_b160
+CoreKernel/Platform/C6748/package/.vers_g180
+CoreKernel/Platform/C6748/package/.vers_r170
+CoreKernel/Platform/C6748/package/.xdc-z63
+CoreKernel/Platform/C6748/package/CoreKernel.Platform.C6748.ccs
+CoreKernel/Platform/C6748/package/CoreKernel.Platform.C6748.sch
+CoreKernel/Platform/C6748/package/CoreKernel_Platform_C6748.class
+CoreKernel/Platform/C6748/package/CoreKernel_Platform_C6748.java
+CoreKernel/Platform/C6748/package/build.cfg
+CoreKernel/Platform/C6748/package/package.bld.xml
+CoreKernel/Platform/C6748/package/package.defs.h
+CoreKernel/Platform/C6748/package/package_CoreKernel.Platform.C6748.c
+CoreKernel/Platform/C6748/package.bld
+CoreKernel/Platform/C6748/package.xdc
